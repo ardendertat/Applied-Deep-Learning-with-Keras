@@ -2,3 +2,4 @@ venv
 *.pyc
 debug
 notebooks/.ipynb_checkpoints
+.DS_Store
