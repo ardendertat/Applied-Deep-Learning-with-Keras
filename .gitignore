@@ -3,3 +3,4 @@ venv
 debug
 notebooks/.ipynb_checkpoints
 .DS_Store
+envs
