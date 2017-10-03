@@ -5,3 +5,4 @@ notebooks/.ipynb_checkpoints
 .DS_Store
 envs
 figures
+notebooks_gpu/*
